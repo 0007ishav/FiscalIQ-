@@ -22,7 +22,7 @@ const routes = [
         label: 'Overview'
     },
     {
-        href: '/budget',
+        href: '/budget-planning',
         label: 'Budget Planning'
     },
     {

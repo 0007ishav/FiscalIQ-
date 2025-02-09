@@ -15,3 +15,4 @@ const DashboardLayout = ({ children }: Props) => {
 };
 
 export default DashboardLayout;
+
